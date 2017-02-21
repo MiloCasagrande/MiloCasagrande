@@ -1,0 +1,52 @@
+# Mandatory settings
+name: Milo Casagrande
+description: Coding Adventures in Life
+paginate: 10
+paginate_path: /posts/page/:num/
+url: http://milo.name/
+blog_theme: light
+permalink: /:year/:month/:day/:title/
+
+# Optional settings
+discus_identifier: # Add your Disqus identifier
+ga_analytics: # Add your GA Tracking Id
+rss_enabled: true
+about_enabled: false
+social:
+  facebook: milobighouse
+  github: MiloCasagrande
+  linkedin: milocasagrande
+  twitter: milocasagrande
+
+# Important settings (change at own risk)
+assets:
+  compress:
+    css: true
+    js: true
+  features:
+    automatic_img_size: false
+  sources:
+    - _assets/bower
+    - _assets/fonts
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _vendor/
+exclude:
+  - .bowerrc
+  - .travis.yml
+  - bin/*
+  - bower.json
+  - circle.yml
+  - favicon.svg
+  - favicon.png
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - bower_components/
+gems:
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji

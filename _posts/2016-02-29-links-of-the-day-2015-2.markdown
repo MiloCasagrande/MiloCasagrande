@@ -1,0 +1,22 @@
+---
+author: milocasagrande
+comments: true
+date: 2016-02-29 18:20:09+00:00
+layout: post
+link: https://www.milo.name/2016/02/29/links-of-the-day-2015-2/
+slug: links-of-the-day-2015-2
+title: Links of the Day - 2016-02-29
+wordpress_id: 628
+categories:
+- Link
+tags:
+- Links
+---
+
+Links to articles not necessarily written today, but still interesting.
+
+  * [Linux Performance Analysis in 60 Seconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html): What to do in 60 seconds to understand what is going on with a Linux server.
+  * [What we Talk About Distributed Systems](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html): Minimum knowledge you need to have to sustain some sort of discussion on distributed systems.
+  * [On the Dangers of a Blockchain Monoculture](https://tonyarcieri.com/on-the-dangers-of-a-blockchain-monoculture): Bitcoin, the (block)chain, their limitations and alternative.
+  * [Time is an Illusion](http://queue.acm.org/detail.cfm?ref=rss&id=2878574): How your computer clock works, thanks to what.
+  * [Stop worrying about Deep Learning](http://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/): and start learning about causality.

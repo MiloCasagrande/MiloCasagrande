@@ -1,0 +1,23 @@
+---
+author: milocasagrande
+comments: true
+date: 2016-03-18 17:30:55+00:00
+layout: post
+link: https://www.milo.name/2016/03/18/links-of-the-day-2016-03-04/
+slug: links-of-the-day-2016-03-04
+title: Links of the Day - 2016-03-18
+wordpress_id: 638
+categories:
+- Link
+tags:
+- Links
+---
+
+Links to articles not necessarily written today, but still interesting.
+
+  * [The two y-axes](http://Links to articles not necessarily written today, but still interesting.) problem: never use them, really... Why would one even think of using them?
+  * [How D3.js works](http://thenewstack.io/visualizing-data-web-d3-js/): getting started, in the right way, with D3.js.
+  * [What it means to be an open-source leader](https://opensource.com/open-organization/16/3/what-it-means-be-open-source-leader): nailed it.
+  * [Estonia e-residents](http://thenewstack.io/estonias-e-residents-part-distributed-digital-nation/): the digital nation, what a single nation can do using modern technologies to make lifes better.
+  * [The Zen of missing out](http://thepracticaldev.com/the-zen-of-missing-out-on-the-next-great-programming-tool): wait and see what happens in the IT world, you never know.
+  
